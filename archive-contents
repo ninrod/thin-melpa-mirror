@@ -49,6 +49,7 @@
  (git-gutter . [(20161105 656) ((emacs (24 3))) "Port of Sublime Text plugin GitGutter" single])
  (git-gutter-fringe . [(20160929 854) ((git-gutter (0 88)) (fringe-helper (0 1 1)) (cl-lib (0 5)) (emacs (24))) "Fringe version of git-gutter.el" single])
  (gitconfig-mode . [(20160710 1913) nil "Major mode for editing .gitconfig files" single])
+ (god-mode . [(20151005 925) nil "God-like command entering minor mode" tar])
  (goto-chg . [(20131228 659) nil "goto last change" single])
  (gruvbox-theme . [(20161019 1949) nil "A retro-groove colour theme for Emacs" single])
  (highlight-numbers . [(20160717 1228) ((emacs (24)) (parent-mode (2 0))) "Highlight numbers in source code" single])
