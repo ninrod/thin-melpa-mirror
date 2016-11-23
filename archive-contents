@@ -92,4 +92,5 @@
  (with-editor . [(20161109 403) ((emacs (24 4)) (async (1 9)) (dash (2 13 0))) "Use the Emacsclient as $EDITOR" tar])
  (yasnippet . [(20161110 1226) ((cl-lib (0 5))) "Yet another snippet extension for Emacs." tar])
  (zerodark-theme . [(20161108 858) ((all-the-icons (2 0 0)) (powerline (2 4)) (magit (2 8 0)) (flycheck (29))) "A dark, medium contrast theme for Emacs" single])
+ (dracula-theme . [(20161119 1345) ((emacs (24))) "Dracula Theme" single])
 )
